@@ -1,0 +1,5 @@
+System Starting...
+
+System Shutdown.
+
+Process log created at: c:\Users\aarya\python\process_log.txt
